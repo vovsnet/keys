@@ -1,7 +1,7 @@
 # VM public ssh-keys
 
 # #ed255
-ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIC4t5EHsPzXh9gGOhadbwVkCUPag/ry/t4i0e4p0F7n3   vm@vovs.net
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIC4t5EHsPzXh9gGOhadbwVkCUPag/ry/t4i0e4p0F7n3    vm@vovs.net
 # #rsa
 ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAtlNkdB/AkB2CoNnIyPN/x3TTZ3LAhlmzAioTyFq5aNQC7WLwbNNa6dmAQwEOIIcvGGLerpWaUGqP+Jbpi0pCcGwYKxETSjiONJqW1Wkuo+yT9zfkbeXiAII9mYpEVh6DH0ohxnq3FjBAMFPG9J+QwjwsnpSP7mBY3tw5G1cEIXs0WrerEvtx80OzDwi20tEb+64WfMByPhyUyvudd4r2WtnKrkOhL6+E/G4MQboixl1x88KDIhTg6XTefIMwwKtXYJDqwln0DCuZNfUler/hmywaHn0gTf7zYEL6N0T3fuy90G4FmhvtneCU38dgIyqUvIYs9bYpiUhKYV3zX+/nwQ== vm@vovs.net
 # #ecdsa
